@@ -1,5 +1,7 @@
 # JWM install
 
+![JWM screenshot](https://i.e33.io/img0/JWM-Screenshot_2025-12-14.png)
+
 ### Features:
 - Custom [JWM](https://joewing.net/projects/jwm) installation for [Arch](https://github.com/e33io/scripts/blob/main/arch-install-jwm.sh) or [Debian](https://github.com/e33io/scripts/blob/main/debian-install-jwm.sh)
 - Base set of apps for a ready-to-use desktop session
